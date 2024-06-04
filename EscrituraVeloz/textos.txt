@@ -1,0 +1,3 @@
+Esto es una prueba de escritura veloz para Python, puede verse sencillo pero toma su tiempo configurarlo.
+Quiero ver que tan rapido eres escribiendo y sin fallar, por eso planteo este test de escritura veloz.
+Escribir de forma rapida es muy importante para avanzar rapido los proyectos y terminarlos dentro del plazo.
